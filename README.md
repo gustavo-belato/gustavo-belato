@@ -1,6 +1,6 @@
-# Olá, eu sou o Gustavo 👋
-
-### Automação & Engenharia de Ferramentas
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Gustavo+%F0%9F%91%8B;Automa%C3%A7%C3%A3o+%26+Engenharia+de+Ferramentas;Python+%2B+React+%2B+Automa%C3%A7%C3%A3o" alt="Typing animation" />
+</p>
 
 Transformo processos manuais e operações complexas em sistemas automatizados que economizam tempo e eliminam erro humano. Já construí bots de dimensionamento inteligente, sistemas de alertas em tempo real e ferramentas internas completas — do backend à interface — que hoje sustentam decisões operacionais no dia a dia.
 
